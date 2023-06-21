@@ -1,0 +1,2 @@
+# EscalaDeRosemberg
+test de autoestima
